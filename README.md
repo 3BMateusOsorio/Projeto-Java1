@@ -1,4 +1,8 @@
 # Projeto-Java1
+
+esse e o meu projeto de javascript do curso alura
+
+
 let xbolinha = 300;
 let ybolinha = 200;
 let diametro = 15;
